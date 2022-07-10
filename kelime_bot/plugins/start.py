@@ -11,11 +11,11 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("🙁 Onsuzda Qrupa əlavə eliyəmmiyəcəysən", url=f"http://t.me/BanditosSozBot?startgroup=new")
+        InlineKeyboardButton("Botu Qrupa Əlavə Edin ✅", url=f"http://t.me/LacosteGameAzBot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("Qrup 🐊", url="https://t.me/BanditosQrup"),
-        InlineKeyboardButton("Sahib ⚜️", url="https://t.me/HusuSovetski"),
+        InlineKeyboardButton("Qrup 🌐", url="https://t.me/MorphinChat"),
+        InlineKeyboardButton("Sahib ⚜️", url="https://t.me/Axhmedov"),
     ]
 ])
 
@@ -23,11 +23,11 @@ keyboard = InlineKeyboardMarkup([
 START = """
 **• Salam ⚡
 
-• Mən Söz @BanditosQrup'u üçün hazırlanmış oyun Botuyam 🎮 
+• Mən Söz oyun Botuyam 🎮 
 
 • Əyləncəli vaxt Keçirmək üçün Mənimlə Oynaya bilərsən ✍🏻 
 
-• Bot @BanditosQrup'u üçün hazırlandığı üçün digər qruplara icazə qadağa qoyulub . 🌪️**
+• Hər hansı bir problemlə qarşılaşsanız @LacosteSup qrupumuza gəlib yaza bilərsiniz!
 
 ➤ Məlumat üçün 👉 /komek bas. Komandalar Asand və Rahatdır. 
 """
